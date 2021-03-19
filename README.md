@@ -1,2 +1,3 @@
-# great-elite-club
-Great Elite Club portal build with laravel
+# greatelite_project
+Great elite project is a peer to peer platform developed with laravel. 
+
